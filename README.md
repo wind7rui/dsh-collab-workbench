@@ -1,8 +1,12 @@
 # 协作工作台 · Collaboration Workbench
 
+[![CI](https://github.com/wind7rui/dsh-collab-workbench/actions/workflows/ci.yml/badge.svg)](https://github.com/wind7rui/dsh-collab-workbench/actions/workflows/ci.yml)
+[![npm](https://img.shields.io/npm/v/dsh-collab-workbench.svg)](https://www.npmjs.com/package/dsh-collab-workbench)
+[![license](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE)
+
 DeepSeek Harness 的多 Agent 项目协作插件。通过自定义角色、项目群聊和任务调度，让不同职责的 Agent 在同一项目中协作，并保留执行记录与交付依据。
 
-npm 包名：`dsh-collab-workbench`。
+npm 包名：`dsh-collab-workbench`。源码仓库：[wind7rui/dsh-collab-workbench](https://github.com/wind7rui/dsh-collab-workbench)。
 
 ## 核心功能
 
