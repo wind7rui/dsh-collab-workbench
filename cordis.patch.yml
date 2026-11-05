@@ -1,0 +1,5 @@
+# dsh-collab-workbench 协作工作台插件
+# 挂载 Host 半区；浏览器半区经 dsh.client manifest + ./client 导出发现。
+- insert:
+    - id: workbench
+      name: dsh-collab-workbench
